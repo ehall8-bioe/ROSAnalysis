@@ -1,0 +1,18 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: ROSAnalysis
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Eva
+    family-names: Hall
+    affiliation: University of Notre Dame
+repository-code: 'https://github.com/ehall8-bioe/ROSAnalysis'
+abstract: >
+  Quantification of nuclear and cytosolic fluorescent
+  intensity
+date-released: '2025-05-03'
