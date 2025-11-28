@@ -1,3 +1,5 @@
+initializeSciJavaParameters();
+
 #@ String (label="Cell Membrane Channel", description="Please use whatever information is used to identify the images",persist=false) membrane
 #@ String (label="Channel for Quantificantion",persist=false) channel
 #@ String (label = "What part of the cell should be quantified?",choices={"Whole Cell","Nucleus and Cytosol Seperately"}, style="radioButtonHorizontal",persist=false) area
